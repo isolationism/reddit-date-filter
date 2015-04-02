@@ -8,7 +8,9 @@ of your choice for a particular date.
 It also works without a subreddit filter, but I'm not sure how valuable that
 information is.
 
-A simple date filter for viewing "what happened on date X" on Reddit.
+The results are opened using your default (system-designated) web browser tool --
+so you have to have one of those. This script probably won't work at all without
+a window manager running.
 
 ## Installation (bash shell)
 
