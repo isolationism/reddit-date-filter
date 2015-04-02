@@ -2,13 +2,13 @@
 
 ## Installation (bash shell)
 
-git clone [project path]
-cd reddit-date-filter/
-pip install -r requirements.txt
+    git clone [project path]
+    cd reddit-date-filter/
+    pip install -r requirements.txt
 
 ## Execution
 
-python reddit_date_filter.py --help
+    python reddit_date_filter.py --help
 
 ## Example
 
